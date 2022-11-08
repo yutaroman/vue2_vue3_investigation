@@ -344,7 +344,8 @@ blockquote:before {
   font-size: 90px;
   line-height: 1;
 }
-blockquote[contenteditable="true"]:before {
+blockquote[contenteditable="true"]:before,
+blockquote[contenteditable=""]:before {
   color: #9dd4ff;
 }
 [aria-hidden="true"] {
