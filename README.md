@@ -1,5 +1,9 @@
 # vue2_vue3_investigation
 
+## Description
+
+Vue2 と Vue3 の環境を用意し、両者の違いを調査・検証するためのリポジトリです。
+
 ## 開発環境の構築
 
 - Vue2

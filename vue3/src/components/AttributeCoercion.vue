@@ -1,3 +1,4 @@
+<!-- 「属性強制の振る舞い」に関して -->
 <script setup lang="ts">
 const booleanAttributes = {
   typeNull: null,
