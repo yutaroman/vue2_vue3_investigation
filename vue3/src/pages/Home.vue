@@ -1,5 +1,5 @@
 <template>
   <div>
-    <RouterView />
+    <h1>Hello Vue3</h1>
   </div>
 </template>
