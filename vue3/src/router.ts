@@ -12,6 +12,11 @@ export const router = createRouter({
       path: '/attribute-coercion',
       name: 'attribute-coercion',
       component: () => import('./pages/AttributeCoercion.vue')
+    },
+    {
+      path: '/built-in-component',
+      name: 'built-in-component',
+      component: () => import('./pages/BuiltInComponent.vue')
     }
   ]
 })
