@@ -17,6 +17,11 @@ export const router = createRouter({
       path: '/built-in-component',
       name: 'built-in-component',
       component: () => import('./pages/BuiltInComponent.vue')
+    },
+    {
+      path: '/config/compiler-options/whitespace',
+      name: 'config-compiler-options-whitespace',
+      component: () => import('./pages/config/compilerOptions/whitespace.vue')
     }
   ]
 })
